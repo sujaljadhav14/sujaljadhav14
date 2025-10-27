@@ -2,10 +2,7 @@
 🚀 Passionate about MERN Stack, Web Development, and AI/ML
 
 👀 I’m interested in
-Full-Stack Web Development (MERN Stack) 💻
-Backend Development (Node.js, Express.js, MongoDB) 🚀
-Frontend with React.js ⚛️
-AI & Machine Learning 🤖 
+Full-Stack Web Development (MERN Stack) 💻 With AI & Machine Learning 🤖 
 
 🌱 I’m currently learning
 Advanced MERN Stack concepts
