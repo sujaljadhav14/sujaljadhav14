@@ -49,12 +49,6 @@ If you’ve got an idea that blends logic with creativity — I’m in! ⚡
 
 ---
 
-### ⚡ Fun Fact
-> I don’t just write code — I craft experiences that make technology feel alive 💫  
-> *My favorite debugging tool? Coffee ☕ and curiosity.*
-
----
-
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,html,css,js,bootstrap,git,github,vscode" />
