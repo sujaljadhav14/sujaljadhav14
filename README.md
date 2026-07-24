@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,35:1E293B,70:2563EB,100:06B6D4&text=HELLO%20HUMAN&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,35:1E293B,70:2563EB,100:06B6D4&text=HELLO%20DEVELOPER'S&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
+'
 # 👋 Hi, I'm Sujal Jadhav
 
 ### AI Application Developer • Building Intelligent Software
