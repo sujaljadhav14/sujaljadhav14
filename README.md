@@ -44,9 +44,6 @@ Right now I'm deep into **Agentic AI** — multi-agent systems, autonomous workf
 <img height="170" src="https://streak-stats.demolab.com?user=sujaljadhav14&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
